@@ -36,8 +36,7 @@ Advanced multimodal conversational application.
 Integrative web platform designed to centralize and manage coding projects.
 * **Features:** Task management, frontend/backend endpoint synchronization in containerized environments, and integrated AI assistance for developers.
 * **Technologies:** Node.js, Docker, MongoDB.
-* 
-🌐 Live: https://riwihub.netlify.app/landingPage
+* 🌐 Live: riwihub.netlify.app
 ---
 
 ### 🎯 Practices & Methodologies
