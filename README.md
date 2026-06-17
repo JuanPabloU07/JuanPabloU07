@@ -7,7 +7,6 @@
 *Building efficient backends, automating complex processes, and integrating AI into real-world solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-urrego/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](juanpablou07@gmail.com)
 
 </div>
 
