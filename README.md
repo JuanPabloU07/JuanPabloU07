@@ -1,17 +1,39 @@
-# Hi there! I'm Juan Pablo Urrego ⚡
+<div align="center">
 
-I am a **Junior Developer & AI Automation Specialist**. My main focus is on Backend development, process automation, and Artificial Intelligence integration to build efficient and scalable solutions.
+# Hey, I'm Juan Pablo Urrego ⚡
 
-I have a solid technical background based on complex problem-solving, process optimization, and precision—skills that I apply directly today to software architecture design and automated workflows.
+### Junior Developer & AI Automation Specialist
+
+*Building efficient backends, automating complex processes, and integrating AI into real-world solutions.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+
+</div>
 
 ---
 
-### 🚀 What I Do Mainly
-* **Process Automation (RPA & AI):** Building advanced workflows and conversational agents using **n8n**, **LangChain**, and **OpenAI** APIs.
-* **Backend Development:** Constructing robust APIs and microservices with **Node.js** and **Python**.
-* **Architecture & Deployment:** Application containerization with **Docker** and database management.
+## 👤 About me
+
+I come from a background in complex problem-solving and process optimization — skills I now apply directly to software architecture design and automated workflows. My focus sits at the intersection of backend development, AI integration, and scalable automation.
+
+- 🌎 Based in Medellín, Colombia
+- 🤖 Currently building conversational AI agents and RAG systems
+- 🔭 Always exploring new ways to make processes smarter and faster
 
 ---
+
+## 🚀 What I do
+
+**Process Automation (RPA & AI):** Building advanced workflows and conversational agents using n8n, LangChain, and OpenAI APIs.
+
+**Backend Development:** Constructing robust APIs and microservices with Node.js and Python.
+
+**Architecture & Deployment:** Application containerization with Docker and database management.
+
+---
+
 ## 🛠️ My Tech Stack
 
 | Area | Technologies |
@@ -24,22 +46,49 @@ I have a solid technical background based on complex problem-solving, process op
 
 ---
 
-### 📁 Featured Projects
+## 📁 Featured Projects
 
-#### 🤖 [VoiceAgent](https://github.com/your-user/voiceagent)
-Advanced multimodal conversational application. 
-* **Features:** Integrates text-to-speech processing, strict memory context management, and automated tool-calling.
-* **Technologies:** Python, OpenAI API, LangChain.
+### 🤖 VoiceAgent
+Advanced multimodal conversational application.
 
-#### 🌐 [RiwiHub](https://github.com/your-user/riwihub)
-Integrative web platform designed to centralize and manage coding projects.
-* **Features:** Task management, frontend/backend endpoint synchronization in containerized environments, and integrated AI assistance for developers.
-* **Technologies:** Node.js, Docker, MongoDB.
-* 🌐 Live: [riwihub.netlify.app](https://riwihub.netlify.app/landingPage)
+- Integrates text-to-speech processing, strict memory context management, and automated tool-calling
+- **Stack:** Python · OpenAI API · LangChain
+
 ---
 
-### 🎯 Practices & Methodologies
-* Development based on structured Git branching (Feature-Branch workflow).
-* Strict security and environment variable management (`.env`).
-* Collaborative work and agile methodologies within development communities.
+### 🌐 RiwiHub
+Integrative web platform designed to centralize and manage coding projects.
 
+- Task management, frontend/backend endpoint synchronization in containerized environments, and integrated AI assistance for developers
+- **Stack:** Node.js · Docker · MongoDB
+- 🔗 [riwihub.netlify.app](https://riwihub.netlify.app)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Juan Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Practices & Methodologies
+
+- Development based on structured Git branching (Feature-Branch workflow)
+- Strict security and environment variable management (`.env`)
+- Collaborative work and agile methodologies within development communities
+
+---
+
+<div align="center">
+
+*Let's build something smart together.*
+
+</div>
