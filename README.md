@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Juan Pablo Urrego ⚡
+# Hey, I'm Juan Pablo Urrego 
 
 ### Junior Developer & AI Automation Specialist
 
@@ -12,17 +12,17 @@
 
 ---
 
-## 👤 About me
+##  About me
 
 I come from a background in complex problem-solving and process optimization — skills I now apply directly to software architecture design and automated workflows. My focus sits at the intersection of backend development, AI integration, and scalable automation.
 
-- 🌎 Based in Medellín, Colombia
-- 🤖 Currently building conversational AI agents and RAG systems
-- 🔭 Always exploring new ways to make processes smarter and faster
+-  Based in Medellín, Colombia
+-  Currently building conversational AI agents and RAG systems
+-  Always exploring new ways to make processes smarter and faster
 
 ---
 
-## 🚀 What I do
+##  What I do
 
 **Process Automation (RPA & AI):** Building advanced workflows and conversational agents using n8n, LangChain, and OpenAI APIs.
 
@@ -32,7 +32,7 @@ I come from a background in complex problem-solving and process optimization —
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 | Area | Technologies |
 |------|-------------|
@@ -44,9 +44,9 @@ I come from a background in complex problem-solving and process optimization —
 
 ---
 
-## 📁 Featured Projects
+##  Featured Projects
 
-### 🤖 VoiceAgent
+###  VoiceAgent
 Advanced multimodal conversational application.
 
 - Integrates text-to-speech processing, strict memory context management, and automated tool-calling
@@ -54,17 +54,17 @@ Advanced multimodal conversational application.
 
 ---
 
-### 🌐 RiwiHub
+###  RiwiHub
 Integrative web platform designed to centralize and manage coding projects.
 
 - Task management, frontend/backend endpoint synchronization in containerized environments, and integrated AI assistance for developers
 - **Stack:** Node.js · Docker · MongoDB
-- 🔗 [riwihub.netlify.app](https://riwihub.netlify.app)
+-  [riwihub.netlify.app](https://riwihub.netlify.app)
 
 ---
 
 
-## 🎯 Practices & Methodologies
+##  Practices & Methodologies
 
 - Development based on structured Git branching (Feature-Branch workflow)
 - Strict security and environment variable management (`.env`)
