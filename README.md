@@ -63,19 +63,6 @@ Integrative web platform designed to centralize and manage coding projects.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Juan Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Practices & Methodologies
 
