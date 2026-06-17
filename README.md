@@ -12,16 +12,15 @@ I have a solid technical background based on complex problem-solving, process op
 * **Architecture & Deployment:** Application containerization with **Docker** and database management.
 
 ---
-
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 | Area | Technologies |
-| :--- | :--- |
-| **Backend & Logic** | JavaScript (Node.js), Python |
-| **Automation & AI** | n8n, LangChain, OpenAI API (RAG Systems) |
-| **Frontend** | HTML5, CSS3 |
-| **Databases & Cloud** | MongoDB, Supabase |
-| **Tools & DevOps** | Docker, Git / GitHub, VS Code |
+|------|-------------|
+| Backend & Logic | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| Automation & AI | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white) |
+| Frontend | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| Databases & Cloud | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| Tools & DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
